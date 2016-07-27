@@ -1,1 +1,3 @@
-Learn how to use git
+Learn how to use git.
+
+How about step 2
